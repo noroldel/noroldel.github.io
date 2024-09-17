@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://noroldel.github.io/sitemap.html.gz
+Sitemap: https://noroldel.github.io/app/sitemap.html.gz
+Sitemap: https://noroldel.github.io/assets/sitemap.html.gz
+Sitemap: https://noroldel.github.io/css/sitemap.html.gz
+Sitemap: https://noroldel.github.io/includes/sitemap.html.gz
+Sitemap: https://noroldel.github.io/item/sitemap.html.gz
+Sitemap: https://noroldel.github.io/src/sitemap.html.gz
